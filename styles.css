@@ -1,0 +1,41 @@
+body{
+    background-color:#FFFAFA ;
+}
+
+h1{
+    color:#133838; 
+}
+
+p{
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+hr{
+    border: 2px #BC8F8F; 
+}
+
+b{ color:#696969; 
+
+}
+
+#special-bold{
+    color: #483D8B;
+}
+
+#special-word{
+    color: aqua;
+}
+
+#first-par{
+background-color: #A9A9A9; 
+padding: 25 px;
+border: 2px solid #042b04;
+}
+
+#second-par{
+background-color:#A9A9A9 ;
+padding: 25px;
+
+}
